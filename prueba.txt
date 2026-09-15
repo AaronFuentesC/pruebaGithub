@@ -1,1 +1,2 @@
 Este es un archivo de prueba para la práctica de introducción a GitHub.
+Y este es el cambio que se ha hecho en la otra rama
